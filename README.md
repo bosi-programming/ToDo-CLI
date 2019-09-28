@@ -1,2 +1,3 @@
 # ToDo-CLI
-A ToDo list CLI app made with Node.js
+<blockquote>A ToDo list CLI app made with Node.js</blockquote>
+<hr>
