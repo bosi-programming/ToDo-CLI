@@ -13,20 +13,21 @@ To use the aplication, you need to open a termminal in the same folder that you 
 
 <h3>Functions</h3>
 <h4>Add</h4>
+<img src="readmeImages/addTask.jpg">
 By using the add command and inputing the task name and task description, you can save a task into the app.
 
 <h4>Remove</h4>
-
+<img src="readmeImages/removeTask.jpg">
 By using the remove command and inputing the task name, you can remove a task from the app.
 
 <h4>List</h4>
-
+<img src="readmeImages/list.jpg">
 By using the list command, you can list all the tasks that are saved on the backlog.
 
 <h4>Read</h4>
-
+<img src="readmeImages/readTask.jpg">
 With the read command, you can read a task by name, including its description and status.
 
 <h4>Update</h4>
-
-With the update command, you can update a task status.
+<img src="readmeImages/updateTask.jpg">
+With the update command, you can update a task status by providing its name.
