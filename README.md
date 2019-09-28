@@ -12,6 +12,22 @@ To use the aplication, you need to open a termminal in the same folder that you 
 <blockquote>node app.js add --name="Name" --description="Description</blockquote>
 
 <h3>Functions</h3>
-<h3>Add</h3>
+<h4>Add</h4>
   <img src="addTask.jpg">
-Using the add command and inputing the task name and task description, you can save a task into the app.
+By using the add command and inputing the task name and task description, you can save a task into the app.
+
+<h4>Remove</h4>
+
+By using the remove command and inputing the task name, you can remove a task from the app.
+
+<h4>List</h4>
+
+By using the list command, you can list all the tasks that are saved on the backlog.
+
+<h4>Read</h4>
+
+With the read command, you can read a task by name, including its description and status.
+
+<h4>Update</h4>
+
+With the update command, you can update a task status.
