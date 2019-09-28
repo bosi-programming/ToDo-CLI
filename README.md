@@ -1,5 +1,9 @@
 # ToDo-CLI
-A ToDo list CLI app made with Node.js. With this app you can add tasks, remove them, list all of them or read a task with its full description and status.
+A ToDo list CLI app made with Node.js and npm's packages chalk and yargs. With this app you can add tasks, remove them, list all of them or read a task with its full description and status.
+<br>
+<p align="center">
+<img src="https://3.bp.blogspot.com/-qziy1FS6WsI/WGP0fYFy_XI/AAAAAAAA3mI/0MwB8YTjNlUEFtMHUaGolTnsJWIzGvHWgCLcB/s400/nodejs-npm.png">
+  </p>
 
 <h2>Getting Started</h2>
 <h3>Prerequisites</h3>
