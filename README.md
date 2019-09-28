@@ -13,7 +13,6 @@ To use the aplication, you need to open a termminal in the same folder that you 
 
 <h3>Functions</h3>
 <h4>Add</h4>
-  <img src="addTask.jpg">
 By using the add command and inputing the task name and task description, you can save a task into the app.
 
 <h4>Remove</h4>
